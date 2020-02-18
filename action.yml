@@ -1,8 +1,0 @@
-jobs:
-  hell-world:
-    name: hello-world
-    runs-on: ubuntu-latest
-    steps:
-    - name: Print a greeting
-      run: |
-        echo 'hello there'
